@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 
+# Car Price Prediction: 
 
 ## Table of Content
   * [Demo](#demo)
